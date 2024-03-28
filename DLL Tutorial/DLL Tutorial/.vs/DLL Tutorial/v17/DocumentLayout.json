@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tharindu\\Git Folders\\C-Sharp\\DLL Tutorial\\DLL Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E1835-55E3-43D9-BF53-A9DE5F5D35F7}|..\\TestDLL\\TestDLL.csproj|d:\\tharindu\\git folders\\c-sharp\\dll tutorial\\testdll\\mathsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C34982-A03F-4021-AB30-FCBE60645BFD}|DLL Tutorial.csproj|d:\\tharindu\\git folders\\c-sharp\\dll tutorial\\dll tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C34982-A03F-4021-AB30-FCBE60645BFD}|DLL Tutorial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathSevice.cs",
+              "DocumentMoniker": "D:\\Tharindu\\Git Folders\\C-Sharp\\DLL Tutorial\\TestDLL\\MathSevice.cs",
+              "RelativeDocumentMoniker": "..\\TestDLL\\MathSevice.cs",
+              "ToolTip": "D:\\Tharindu\\Git Folders\\C-Sharp\\DLL Tutorial\\TestDLL\\MathSevice.cs",
+              "RelativeToolTip": "..\\TestDLL\\MathSevice.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:43:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tharindu\\Git Folders\\C-Sharp\\DLL Tutorial\\DLL Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Tharindu\\Git Folders\\C-Sharp\\DLL Tutorial\\DLL Tutorial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:41:37.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

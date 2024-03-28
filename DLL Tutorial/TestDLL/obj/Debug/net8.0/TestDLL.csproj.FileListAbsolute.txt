@@ -1,0 +1,11 @@
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\bin\Debug\net8.0\TestDLL.deps.json
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\bin\Debug\net8.0\TestDLL.dll
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\bin\Debug\net8.0\TestDLL.pdb
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\obj\Debug\net8.0\TestDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\obj\Debug\net8.0\TestDLL.AssemblyInfoInputs.cache
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\obj\Debug\net8.0\TestDLL.AssemblyInfo.cs
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\obj\Debug\net8.0\TestDLL.csproj.CoreCompileInputs.cache
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\obj\Debug\net8.0\TestDLL.dll
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\obj\Debug\net8.0\refint\TestDLL.dll
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\obj\Debug\net8.0\TestDLL.pdb
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\TestDLL\obj\Debug\net8.0\ref\TestDLL.dll

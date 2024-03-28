@@ -1,0 +1,18 @@
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\bin\Debug\net8.0\DLL Tutorial.exe
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\bin\Debug\net8.0\DLL Tutorial.deps.json
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\bin\Debug\net8.0\DLL Tutorial.runtimeconfig.json
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\bin\Debug\net8.0\DLL Tutorial.dll
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\bin\Debug\net8.0\DLL Tutorial.pdb
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\bin\Debug\net8.0\TestDLL.dll
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\bin\Debug\net8.0\TestDLL.pdb
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tutorial.csproj.AssemblyReference.cache
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tutorial.AssemblyInfoInputs.cache
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tutorial.AssemblyInfo.cs
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tutorial.csproj.CoreCompileInputs.cache
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tuto.B16771A1.Up2Date
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tutorial.dll
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\refint\DLL Tutorial.dll
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tutorial.pdb
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\DLL Tutorial.genruntimeconfig.cache
+D:\Tharindu\Git Folders\C-Sharp\DLL Tutorial\DLL Tutorial\obj\Debug\net8.0\ref\DLL Tutorial.dll
