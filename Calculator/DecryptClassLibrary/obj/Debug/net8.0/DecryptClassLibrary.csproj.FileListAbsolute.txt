@@ -1,0 +1,12 @@
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\bin\Debug\net8.0\DecryptClassLibrary.deps.json
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\bin\Debug\net8.0\DecryptClassLibrary.dll
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\bin\Debug\net8.0\DecryptClassLibrary.pdb
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\DecryptClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\DecryptClassLibrary.AssemblyInfoInputs.cache
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\DecryptClassLibrary.AssemblyInfo.cs
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\DecryptClassLibrary.csproj.CoreCompileInputs.cache
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\DecryptClassLibrary.sourcelink.json
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\DecryptClassLibrary.dll
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\refint\DecryptClassLibrary.dll
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\DecryptClassLibrary.pdb
+D:\Tharindu\Git Folders\C-Sharp\Calculator\DecryptClassLibrary\obj\Debug\net8.0\ref\DecryptClassLibrary.dll
